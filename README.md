@@ -1,1 +1,2 @@
-# alx-system_engineering-devops
+# Learning shell basics - very fun
+alx-system_engineering-devops
